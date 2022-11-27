@@ -1,2 +1,2 @@
 # converter-app
-converter-app to convert any extension of any file
+برنامج  لتحويل امتداد اى صورة او صوت او فيديو او ملف
